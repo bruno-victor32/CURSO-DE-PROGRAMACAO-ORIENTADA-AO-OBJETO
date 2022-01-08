@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+		<item value="bitbucket.org"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/bruno-victor32/CURSO-DE-PROGRAMACAO-ORIENTADA-AO-OBJETO.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="200,200"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\bruno\.git">
+			<item value="false"/>
+			<item value="Bruno Victor da Silva Vicente &lt;bruno.victor32@yahoo.com.br&gt;"/>
+			<item value="java"/>
+			<item value="Bruno Victor da Silva Vicente &lt;bruno.victor32@yahoo.com.br&gt;"/>
+			<item value="cedc73fc805e3b975b6febc5e9e2c965c5a6da60"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+	</section>
+</section>
